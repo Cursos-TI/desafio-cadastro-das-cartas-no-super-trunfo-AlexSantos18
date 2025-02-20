@@ -42,7 +42,7 @@ void entrada_dados(void){
     printf("Carta Cadastrada com Sucesso.\n");
     printf("\n");
     printf("\n");
-    getch();
+  
 
 }
 
@@ -58,7 +58,7 @@ void saida_dados(void){
     printf("Numero de Pontos Turisticos: %d\n", n_turisticos);
     printf("\n");
     printf("\n");
-    getch();
+  
 
 }
 
